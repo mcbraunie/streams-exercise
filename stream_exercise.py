@@ -1,4 +1,10 @@
 
+# Student: Micah Braun
+# Course: Python 230
+# 04/14/19
+# Module 02 - stream-activity
+
+
 
 class StreamProcessor(object):
     """
